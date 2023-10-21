@@ -1,6 +1,2 @@
-import pyinputplus as pyip
-scores = pyip.inputInt("請輸入學生分數(最高300分):",min=0,max=300)
-name = "andy"
-print()
-print(f"學生{name}分數為{scores}") 
+
 
