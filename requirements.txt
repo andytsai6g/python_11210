@@ -6,3 +6,5 @@ openpyxl
 SQLAlchemy
 psycopg2
 jinja2
+matplotlib
+beautifulsoup4
